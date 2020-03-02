@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bookr-app/precache-manifest.040aa9fedd14cd4117013740f432c242.js"
+  "/bookr-app/precache-manifest.554fc7e3568c12b687094725be1a4e03.js"
 );
 
 self.addEventListener('message', (event) => {
