@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bookr-app/static/css/main.ef7c2978.chunk.css",
+    "main.js": "/bookr-app/static/js/main.72353ad7.chunk.js",
+    "main.js.map": "/bookr-app/static/js/main.72353ad7.chunk.js.map",
+    "runtime-main.js": "/bookr-app/static/js/runtime-main.cdc0c9c1.js",
+    "runtime-main.js.map": "/bookr-app/static/js/runtime-main.cdc0c9c1.js.map",
+    "static/css/2.d90538a7.chunk.css": "/bookr-app/static/css/2.d90538a7.chunk.css",
+    "static/js/2.d4c5ab56.chunk.js": "/bookr-app/static/js/2.d4c5ab56.chunk.js",
+    "static/js/2.d4c5ab56.chunk.js.map": "/bookr-app/static/js/2.d4c5ab56.chunk.js.map",
+    "index.html": "/bookr-app/index.html",
+    "precache-manifest.040aa9fedd14cd4117013740f432c242.js": "/bookr-app/precache-manifest.040aa9fedd14cd4117013740f432c242.js",
+    "service-worker.js": "/bookr-app/service-worker.js",
+    "static/css/2.d90538a7.chunk.css.map": "/bookr-app/static/css/2.d90538a7.chunk.css.map",
+    "static/css/main.ef7c2978.chunk.css.map": "/bookr-app/static/css/main.ef7c2978.chunk.css.map",
+    "static/js/2.d4c5ab56.chunk.js.LICENSE": "/bookr-app/static/js/2.d4c5ab56.chunk.js.LICENSE",
+    "static/media/dashboard.css": "/bookr-app/static/media/Techroom.27d8105f.jpeg",
+    "static/media/home.module.css": "/bookr-app/static/media/jonsnow.4032fe0c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdc0c9c1.js",
+    "static/css/2.d90538a7.chunk.css",
+    "static/js/2.d4c5ab56.chunk.js",
+    "static/css/main.ef7c2978.chunk.css",
+    "static/js/main.72353ad7.chunk.js"
+  ]
+}
