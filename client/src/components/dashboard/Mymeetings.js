@@ -4,7 +4,7 @@ import { AiOutlineClose } from 'react-icons/ai';
 import axios from 'axios';
 
 const Mymeetings = () => {
- 
+    const [booked, setBooked] = useState([]);
 
     useEffect( () => {
         const getMyMeeting = async () => {
